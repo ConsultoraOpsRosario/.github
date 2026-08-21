@@ -15,11 +15,11 @@
 
 ## Qué hacemos
 
-Digitalización, automatización y control de gestión para operaciones **industriales y logísticas**.
+Digitalización, automatización y control de gestión para operaciones **Industriales y Logísticas**.
 
-No vendemos horas de programación: entregamos **visibilidad de los números** y **horas-hombre recuperadas**.
+Te entregamos **visibilidad de los números** y **horas-hombre recuperadas**.
 
-Nuestro diferencial no es sólo técnico. Es de dominio: conocemos cómo opera una planta y una operación logística por dentro —sus procesos, su vocabulario y sus dolores reales— y eso lo combinamos con datos, BI y automatización.
+Nuestro diferencial no es sólo técnico. Es de dominio: conocemos cómo opera una planta industrial y una operación logística por dentro —sus procesos y sus dolores reales— y eso lo combinamos con datos, BI y automatización.
 
 **Tres promesas concretas:**
 
@@ -29,11 +29,7 @@ Nuestro diferencial no es sólo técnico. Es de dominio: conocemos cómo opera u
 
 ---
 
-## Para quién trabajamos
-
-PyMEs de **20 a 100 empleados** en industria metalúrgica, manufactura y logística.
-
-Si algo de esto te suena conocido, hablamos el mismo idioma:
+## Si algo de esto te suena conocido, hablamos el mismo idioma:
 
 - Los indicadores del mes recién se conocen cuando el mes ya terminó.
 - Los números dependen de una persona clave y de una planilla que sólo ella entiende.
@@ -74,30 +70,12 @@ Todo proyecto sigue las mismas seis etapas. Sin sorpresas y sin desaparecer sema
 
 ---
 
-## Stack técnico
-
-| Capa | Tecnologías |
-| --- | --- |
-| Datos y automatización | Python · pandas · Playwright |
-| Base de datos | PostgreSQL · Supabase |
-| BI y tableros | Power BI · Metabase · Streamlit |
-| Web y micro-apps | Astro · React · Vite · Tailwind CSS |
-| Infraestructura | Cloudflare · Vercel · GitHub Actions |
-
-Elegimos la herramienta según el ecosistema y el presupuesto de cada cliente. Si ya trabajás con Microsoft, nos apoyamos en eso; si no, hay alternativas sin licencias que resuelven igual de bien.
-
----
-
-## Estado de esta organización
-
-Estamos en etapa de construcción de nuestros activos y del portfolio de demostración: una operación industrial simulada de punta a punta —captura en piso, automatización de reportes y tablero de KPIs— para mostrar el antes y el después con datos reales sobre la mesa.
-
-Los repositorios públicos van a ir apareciendo acá a medida que se publiquen.
+## Brindamos las herramientas según el ecosistema y el presupuesto de cada cliente.
 
 ---
 
 ## Contacto
 
-**consultoraoperacionesrosario@gmail.com**
+**consultaraoperacionesrosario@gmail.com**
 
-Contanos en qué se te va el tiempo hoy y te decimos si tiene solución y cuánto cuesta. La primera conversación no se cobra.
+Contáctanos y comentanos en qué se te va el tiempo hoy y te decimos si tiene solución y cuánto cuesta. La primera conversación no se cobra.
