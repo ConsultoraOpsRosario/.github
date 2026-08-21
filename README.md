@@ -76,6 +76,6 @@ Todo proyecto sigue las mismas seis etapas. Sin sorpresas y sin desaparecer sema
 
 ## Contacto
 
-**consultaraoperacionesrosario@gmail.com**
+**consultoraoperacionesrosario@gmail.com**
 
 Contáctanos y comentanos en qué se te va el tiempo hoy y te decimos si tiene solución y cuánto cuesta. La primera conversación no se cobra.
