@@ -46,6 +46,7 @@ Nuestro diferencial no es sólo técnico. Es de dominio: conocemos cómo opera u
 | **Tablero de KPIs** | Falta de visibilidad de los números | Tablero operativo con los indicadores del negocio |
 | **Automatización de reportes (ETL)** | El Excel manual de todos los días | Pipeline que consolida y publica el reporte solo |
 | **Micro-app operativa (PWA)** | Papel y carga manual en planta o en ruta | App móvil para stock, pedidos o remitos |
+| **Sitios de alto rendimiento y software a medida** | Presencia web desconectada de la operación | Portal público o privado sobre la misma base de datos del tablero |
 
 Cada implementación puede continuar con un **abono mensual** de soporte, mantenimiento y mejora continua: lo entregado sigue funcionando y sigue evolucionando.
 
