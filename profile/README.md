@@ -23,7 +23,7 @@ Nuestro diferencial no es sólo técnico. Es de dominio: conocemos cómo operan 
 
 **Tres promesas concretas:**
 
-1. **Ves tus números.** Los indicadores que hoy están dispersos en Excel, en un tablero único.
+1. **Ves tus números.** Los indicadores que hoy están dispersos en Excel, Después en un tablero único.
 2. **Dejás de cargar a mano.** Reportes y procesos administrativos automatizados.
 3. **Tu operación y equipos quedan ordenados.** Herramientas y métodos de trabajo para tus equipos.
 
