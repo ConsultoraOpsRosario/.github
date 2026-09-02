@@ -5,7 +5,7 @@
   Naming provisorio: revisar este archivo cuando se cierre la marca (ver Marca/Marca.md).
 -->
 
-# Consultora de Software
+# REDMAR - Consultora de Software
 
 **Rosario · Santa Fe · Argentina — con alcance remoto en todo el país**
 
