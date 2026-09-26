@@ -2,10 +2,9 @@
   README del perfil de la organización.
   Vive en el repo PÚBLICO `.github` de la organización, en la ruta `profile/README.md`.
   Cualquier otra ubicación no se renderiza en la portada del perfil.
-  Naming provisorio: revisar este archivo cuando se cierre la marca (ver Marca/Marca.md).
 -->
 
-# REDMAR - Consultora de Software
+# REDMAR · Consultora de Software
 
 **Rosario · Santa Fe · Argentina — con alcance remoto en todo el país**
 
